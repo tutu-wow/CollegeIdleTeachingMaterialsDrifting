@@ -1,0 +1,2 @@
+# CollegeIdleTeachingMaterialsDrifting
+大学生闲置教材漂流微信小程序
